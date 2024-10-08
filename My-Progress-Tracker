@@ -59,7 +59,9 @@ Repository: https://github.com/Bree-codes/Introduction-to-Machine-Learning
 Repository: https://github.com/Bree-codes/MachineLearning-Algorithms
 
 ->I've covered these algorthims:
-  .Linear Regression
-  .Logistic Regression
-  .Decision Trees
-  .K Nearest Neighbours
+  . Linear Regression
+  . Logistic Regression
+  . Decision Trees
+  . K Nearest Neighbours
+  . Support Vector Machine
+.Basically i've been working on Supervised Learning Algorithms.
