@@ -67,5 +67,8 @@ Repository: https://github.com/Bree-codes/MachineLearning-Algorithms
 .Basically i've been working on Supervised Learning Algorithms.
 
 ## Week 7: Model Evaluation and Improvement
-Repository:
-
+  Introduction to model evaluation metrics: accuracy, precision, recall, F1-score.
+• Learn about confusion matrices.
+• Explore cross-validation and its importance.
+• Learn about overfitting, underfitting, and the bias-variance tradeoff.
+• Techniques for improving models: feature scaling, regularization
