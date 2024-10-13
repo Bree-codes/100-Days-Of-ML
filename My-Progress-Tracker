@@ -72,3 +72,8 @@ Repository: https://github.com/Bree-codes/MachineLearning-Algorithms
 • Explore cross-validation and its importance.
 • Learn about overfitting, underfitting, and the bias-variance tradeoff.
 • Techniques for improving models: feature scaling, regularization
+
+## Week 8: Unsupervised Learning 
+Algorithms:
+ . K-Means Clustering
+ . Principal Component Analysis (PCA)
