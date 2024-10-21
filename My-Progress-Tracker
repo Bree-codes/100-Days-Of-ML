@@ -77,3 +77,6 @@ Repository: https://github.com/Bree-codes/MachineLearning-Algorithms
 Algorithms:
  . K-Means Clustering
  . Principal Component Analysis (PCA)
+
+## Week 9: Advanced Machine Learning Algorithms
+  -> Introduction to ensemble methods: Bagging and Boosting
